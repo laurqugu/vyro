@@ -1,0 +1,9 @@
+{
+    "metodo":"post",
+    "url":"https://jsonplaceholder.typicode.com/posts",
+    "body": {
+        "name": "Laura",
+        "age": 25,
+        "email": "laurajquinchia@gmail.com"
+    }    
+}
